@@ -1,0 +1,27 @@
+ # Arquivos PDF na pasta lib (muito grandes)
+medical_assistant/lib/*.pdf
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+medical_env/
+venv/
+ENV/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de conhecimento gerados
+medical_assistant/knowledge_base/
+
+# Logs
+*.log

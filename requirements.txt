@@ -1,0 +1,5 @@
+anthropic==0.8.0
+PyPDF2==3.0.1
+ebooklib==0.18
+nltk==3.8.1
+numpy==1.24.3 
